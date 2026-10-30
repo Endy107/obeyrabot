@@ -6,37 +6,36 @@ const pkg = JSON.parse(fs.readFileSync('./package.json', 'utf-8'))
 
 /*⭑⭒━━━✦❘༻☾⋆⁺₊✧ 𝓿𝓪𝓻𝓮𝓫𝓸𝓽 ✧₊⁺⋆☽༺❘✦━━━⭒⭑*/
 
-global.prefisso = '.'
-global.sam = ['393514357738',]
+global.prefisso = '!'
+global.sam = ['393501989497',]
 global.owner = [
-  ['393476686131', 'sam', true],
-  ['393511082922', 'gio', true],
-  ['393392645292', 'mavko', true],
-  ['212614769337', 'zexin/giuse', true],
-  ['393514357738', 'vare', true],
-  ['393715983481', 'youns/kinderino', true],
+  ['39350198o497', 'endy', true],
+  ['393505723612', 'deni', true],
+  ['79524931364', 'punisher', true],
+  ['14153907884', 'knor', true],
+  ['393513766377', 'roby', true],
 
 ]
-global.mods = ['393514357738', '393511082922', '393392645292']
-global.prems = ['393514357738', '393511082922', '212614769337']
+global.mods = ['393501989497']
+global.prems = ['393501989497']
 
 /*⭑⭒━━━✦❘༻🩸 INFO BOT 🕊️༺❘✦━━━⭒⭑*/
 
-global.nomepack = 'vare ✧ bot'
-global.nomebot = '✧˚🩸 varebot 🕊️˚✧'
-global.wm = 'vare ✧ bot'
-global.autore = 'SⒶ𝔪'
-global.dev = '⋆｡˚- SⒶ𝔪'
-global.testobot = `༻⋆⁺₊𝓿𝓪𝓻𝓮𝓫𝓸𝓽₊⁺⋆༺`
+global.nomepack = 'obeyra bot'
+global.nomebot = 'obeyra bot'
+global.wm = 'obeyra bot'
+global.autore = 'endy'
+global.dev = '⋆｡˚- endy'
+global.testobot = `obeyra bot`
 global.versione = pkg.version
 global.errore = '⚠️ *Errore inatteso!* Usa il comando `.segnala <errore>` per avvisare lo sviluppatore.'
 
 /*⭑⭒━━━✦❘༻� LINK 🌐༺❘✦━━━⭒⭑*/
 
-global.repobot = 'https://github.com/realvare/varebot'
-global.gruppo = 'https://chat.whatsapp.com/bysamakavare'
-global.canale = 'https://whatsapp.com/channel/0029VbB41Sa1Hsq1JhsC1Z1z'
-global.insta = 'https://www.instagram.com/samakavare'
+global.repobot = 'https://github.com/Endy107/obeyrabot'
+global.gruppo = 'https://chat.whatsapp.com/DofpUEqCeuO6u4csydLwaA?s=cl&p=a&mlu=4&ilr=4&iam=2'
+global.canale = 'https://whatsapp.com/channel/0029VbEKwNeL2ATx78GmKL2r'
+global.insta = 'https://www.instagram.com/Endy.2011_'
 
 /*⭑⭒━━━✦❘🗝️ API KEYS 🌍༺❘✦━━━⭒⭑*/
 
